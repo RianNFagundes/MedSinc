@@ -11,4 +11,6 @@ TCC em equipe do curso de Ciência da Computação da UNIP. O MedSinc é um sist
 
 Para rodar localmente, configure o MySQL 8 e siga o [guia do backend](https://github.com/HierroPagotto/MedSincBackend#configuração) com Python 3.10 ou superior. Com a API no ar, siga o [guia do frontend](https://github.com/HierroPagotto/plantaoMedicoFinance#configuração) com Node.js 20 ou superior.
 
-Integrei a equipe do TCC. Os repositórios com o código e o histórico de alterações estão na conta do [Hierro Pagotto](https://github.com/HierroPagotto).
+## Minha participação
+
+Trabalhei no MedSinc em conjunto com os demais integrantes da equipe. A participação foi compartilhada ao longo do projeto. Os repositórios na conta do [Hierro Pagotto](https://github.com/HierroPagotto) reúnem o código e o histórico de alterações do grupo.
